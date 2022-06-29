@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796914602498",
+    "project_id": "fininfocom-flutter-task",
+    "storage_bucket": "fininfocom-flutter-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796914602498:android:bcf16263df615d5ac5cd1b",
+        "android_client_info": {
+          "package_name": "com.vineethvarma.fininfocom_flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796914602498-1k4kh651v4u8m7d4tvlssgshqv05742i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXQcgSMFIc52PHEfY7g-XDAdWAZCAsqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796914602498-1k4kh651v4u8m7d4tvlssgshqv05742i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
